@@ -64,3 +64,24 @@ main{
     width: 100%;
     background-color: white;
 }
+
+.stafff
+{
+    height: 280px;
+    display: flex;
+    width: 200px;
+    background-color: blue;
+
+    .persona{
+        height: 100%;
+        width: 30%;
+    }
+
+    .foto{
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        background-color: blueviolet;
+    }
+
+}
